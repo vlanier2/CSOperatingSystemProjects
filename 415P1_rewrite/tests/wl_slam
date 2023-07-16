@@ -1,0 +1,20 @@
+not a program
+pwd
+./cpubound -m 1
+./iobound -m 1
+ls -a
+not a program
+ls -a
+echo "THIS"
+FAIL 3434
+echo "AFTER"
+pwd
+date 
+./iobound -m 1 -n later
+./iobound -m 1 -n later
+./iobound -m 1 -n later
+./iobound -m 1 -n later
+./iobound -m 1 -n later
+./iobound -m 1 -n later
+./iobound -m 1 -n later
+./iobound -m 1 -n later

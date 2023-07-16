@@ -1,0 +1,17 @@
+echo "TEST ONE"
+date
+pwd
+pwd
+ls
+ls -a
+grep --help
+date
+cat manifest
+echo 1
+echo "2"
+echo 3
+NOT A PROGRAM
+date
+date
+NOT A PROGRAM
+date

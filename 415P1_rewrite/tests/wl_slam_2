@@ -1,0 +1,51 @@
+./iobound
+./cpubound -m 1 -n one
+./cpubound -m 1 -n two
+FAIL HERE FAIL HERE FAIL HERE
+FAIL HERE FAIL HERE FAIL HERE
+FAIL HERE FAIL HERE FAIL HERE
+./cpubound -m 1 -n three
+
+FAIL HERE FAIL HERE FAIL HERE
+
+FAIL HERE FAIL HERE FAIL HERE
+
+FAIL HERE FAIL HERE FAIL HERE
+
+FAIL HERE FAIL HERE FAIL HERE
+
+FAIL HERE FAIL HERE FAIL HERE
+date
+
+FAIL HERE FAIL HERE FAIL HERE
+FAIL HERE FAIL HERE FAIL HERE
+date
+
+FAIL HERE FAIL HERE FAIL HERE
+date
+
+sleep 25
+sleep 19
+date
+
+sleep 6
+FAIL HERE FAIL HERE FAIL HERE
+
+sleep 2
+date
+
+sleep 12
+date
+
+FAIL HERE
+sleep 10
+ 
+date
+
+./cpubound
+pwd
+pwd
+FAIL FAIL
+FAIL FAIL
+pwd
+./iobound

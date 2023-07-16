@@ -1,0 +1,6 @@
+./cpubound -m 1 -n one
+./cpubound -m 1 -n two
+./cpubound -m 1 -n three
+./iobound -m 1
+./iobound -m 1
+./iobound -m 1
